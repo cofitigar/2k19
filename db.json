@@ -21,7 +21,7 @@
   ],
   
   "attachments": [
-    {"id": 1, "type": "mp3", "name": "audio", "message":{"id": 1, "subject": "aaaa", "content": "facebook", "folder":{ "id": 2, "name": "Primljene"}},
-    {"id": 2, "type": "mp4", "name": "video", "message":{"id": 1, "subject": "aaaa", "content": "facebook", "folder":{ "id": 2, "name": "Primljene"}}
+    {"id": 1, "type": "mp3", "name": "audio", "message":{"id": 1, "subject": "aaaa", "content": "facebook", "folder":{ "id": 2, "name": "Primljene"}}},
+    {"id": 2, "type": "mp4", "name": "video", "message":{"id": 1, "subject": "aaaa", "content": "facebook", "folder":{ "id": 2, "name": "Primljene"}}}
   ]
 }
