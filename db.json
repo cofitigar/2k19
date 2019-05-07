@@ -1,8 +1,8 @@
 {
   "messages": [
-    { "id": 1, "subject": "aaaa", "content": "facebook", "folder":{ "id": 2, "name": "Primljene" } },
-    { "id": 2, "subject": "bbbb", "content": "pin", "folder":{ "id": 2, "name": "Primljene" } },
-    { "id": 3, "subject": "ccc", "content": "blablabla", "folder":{ "id": 2, "name": "Primljene" }}
+    { "id": 1, "subject": "aaaa", "content": "facebook", "dateTime":"2019-07-05 13:00:00", "folder":{ "id": 2, "name": "Primljene" } },
+    { "id": 2, "subject": "bbbb", "content": "pin","dateTime":"2019-07-07 13:00:00", "folder":{ "id": 2, "name": "Primljene" } },
+    { "id": 3, "subject": "ccc", "content": "blablabla","dateTime":"2019-07-10 13:00:00", "folder":{ "id": 2, "name": "Primljene" }}
   ],
   "accounts": [
     { "id": 1, "username": "cofi", "password": "123" },
